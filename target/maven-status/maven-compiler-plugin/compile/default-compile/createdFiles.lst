@@ -1,0 +1,16 @@
+com\accurascience\util\EmailUtil.class
+com\accurascience\config\CorsConfig.class
+com\accurascience\controller\UserController.class
+com\accurascience\entity\User.class
+com\accurascience\service\VerificationCodeService.class
+com\accurascience\Application.class
+com\accurascience\config\AuthorizationServerConfig.class
+com\accurascience\config\ResourceServerConfig.class
+com\accurascience\entity\VerificationCode.class
+com\accurascience\service\UserService.class
+com\accurascience\config\SecurityConfig.class
+com\accurascience\service\impl\VerificationCodeServiceImpl.class
+com\accurascience\controller\VerificationCodeController.class
+com\accurascience\dao\VerificationCodeDao.class
+com\accurascience\dao\UserDao.class
+com\accurascience\util\TokenEnhancerUtil.class
